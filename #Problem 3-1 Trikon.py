@@ -1,8 +1,6 @@
 #Problem 3-1 Trikon
 #Name- Prakhar Singhania
-#Collaborator Bhumika Mittal
 
-#(a) Follwoing are the codes for sub-parts: A,B,C,D
 
 #==================== A =============================
 
